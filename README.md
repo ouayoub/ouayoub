@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ouayoub
+- 👋 Hi, I’m ouachko ayoub
 - 👀 I’m interested in front-end developer
 - 🌱 I’m currently learning html css javascript bootstrap nodejs php jquery Angular
 - 💞️ I’m looking to collaborate with new friend to develop our skills on programing
